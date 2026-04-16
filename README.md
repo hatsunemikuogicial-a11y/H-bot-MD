@@ -1,9 +1,9 @@
 <h1 align="center">
-✨🚀 <span style="color:#00FFAA;">Hᴀᴛꜱᴜɴᴇ ᴍɪᴋᴜ V3</span> 🤖💚
+✨🚀 <span style="color:#00FFAA;">Domi Bot V3</span> 🤖💚
 </h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/hv7gxW1X/IMG-20260414-WA0061.jpg" width="300" alt="Hᴀᴛꜱᴜɴᴇ ᴍɪᴋᴜ V2" />
+  <img src="https://i.postimg.cc/2ypVSgK1/IMG-20260416-WA0508.jpg" width="300" alt="Hᴀᴛꜱᴜɴᴇ ᴍɪᴋᴜ V2" />
 </p>
 
 
